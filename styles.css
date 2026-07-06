@@ -422,6 +422,7 @@ a { color: inherit; }
 }
 
 /* Projects */
+#projects .portfolio-card p { flex: 1; }
 .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
 
 .tag {
