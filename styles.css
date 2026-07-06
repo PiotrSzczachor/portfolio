@@ -451,6 +451,25 @@ a { color: inherit; }
   margin-top: 5px;
 }
 
+/* Languages */
+.grid--languages { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+
+.lang-card {
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.lang-card__name { font-size: 19px; font-weight: 600; }
+
+.lang-card__level {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
 /* ============================================================
    Contact & footer
    ============================================================ */

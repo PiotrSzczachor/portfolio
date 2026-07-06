@@ -16,12 +16,13 @@ const PL = {
   'nav.portfolio': 'Portfolio',
   'nav.projects': 'Projekty',
   'nav.education': 'Edukacja',
+  'nav.languages': 'Języki',
   'nav.contact': 'Kontakt',
   'nav.cv': 'Pobierz CV',
 
   // Hero
   'hero.badge': 'Otwarty na projekty freelance i B2B',
-  'hero.intro': 'Tworzę aplikacje webowe, API i integracje dla firm — oraz szybkie, nowoczesne strony internetowe dla małych biznesów. 4 lata komercyjnego doświadczenia z .NET, React i Angular.',
+  'hero.intro': 'Doświadczony Fullstack .NET Developer. Tworzę aplikacje webowe, API i integracje systemowe dla firm, a także szybkie, nowoczesne strony internetowe dla małych biznesów. Pewnie poruszam się w .NET, React i Angular, dostarczając solidne, gotowe do wdrożenia oprogramowanie.',
   'hero.cta': 'Napisz do mnie',
   'hero.loc': 'Polska · praca zdalna · własna działalność (B2B)',
 
@@ -81,6 +82,13 @@ const PL = {
   'edu.wut.school': 'Politechnika Warszawska',
   'edu.wut.degree': 'Informatyka · magister inżynier',
   'edu.wut.dates': '2024 — obecnie',
+
+  // Languages
+  'lang.heading': 'Języki',
+  'lang.pl.name': 'Polski',
+  'lang.pl.level': 'Ojczysty',
+  'lang.en.name': 'Angielski',
+  'lang.en.level': 'C1 · zaawansowany',
 
   // Contact
   'contact.heading': 'Zbudujmy coś razem',
